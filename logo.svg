@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 72" role="img" aria-label="Cezar Vellozo — sites e sistemas web">
+  <circle cx="36" cy="36" r="34" fill="#14161a"/>
+  <text x="28" y="46" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="800" fill="#ffffff">C</text>
+  <text x="46" y="46" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="800" fill="#d9451c">V</text>
+
+  <text x="88" y="36"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="23" font-weight="700" letter-spacing="-0.4" fill="#14161a">Cezar Vellozo</text>
+
+  <text x="89" y="55"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="9.5" font-weight="600" letter-spacing="2.1" fill="#5b6470">SITES E SISTEMAS WEB</text>
+</svg>

@@ -116,16 +116,11 @@ a {
   line-height: 1.1;
 }
 
-.marca__monograma {
-  display: grid;
-  place-items: center;
+.marca__logo {
   width: 38px;
   height: 38px;
+  flex: 0 0 auto;
   border-radius: 50%;
-  background: var(--tinta);
-  color: #fff;
-  font-size: 14px;
-  letter-spacing: 0.04em;
 }
 
 .marca__texto {
